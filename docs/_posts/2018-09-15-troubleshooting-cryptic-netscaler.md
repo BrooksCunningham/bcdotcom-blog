@@ -57,7 +57,7 @@ openssl x509 -modulus -noout -in <cert>
 
 Below is a sample output for what the modulus will look like for my public certificate.
 
-![NetScaler modulus output](/assets/images/troubleshooting-cryptic-netscaler/netscaler_modulus.png)
+![NetScaler modulus output]({{ site.baseurl }}/assets/images/troubleshooting-cryptic-netscaler/netscaler_modulus.png)
 
 ## FIPS NetScaler Appliances
 

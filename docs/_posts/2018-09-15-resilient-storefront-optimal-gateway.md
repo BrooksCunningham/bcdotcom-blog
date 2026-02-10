@@ -59,11 +59,11 @@ I have included some diagrams to help clarify things. A key thing to keep in min
 
 The diagram below is for the authentication and application enumeration workflow.
 
-![Authentication and Enumeration Workflow](/assets/images/resilient-storefront-optimal-gateway/blog_auth_workflow_01.png)
+![Authentication and Enumeration Workflow]({{ site.baseurl }}/assets/images/resilient-storefront-optimal-gateway/blog_auth_workflow_01.png)
 
 The diagram below illustrates the application launch workflow. The thick lines represent normal working conditions. The dotted lines represent the backup workflow in the event that a site is experiencing an outage.
 
-![Application Launch Workflow](/assets/images/resilient-storefront-optimal-gateway/blog_app_launch_01.png)
+![Application Launch Workflow]({{ site.baseurl }}/assets/images/resilient-storefront-optimal-gateway/blog_app_launch_01.png)
 
 Thank you for reading. I hope you found this beneficial. Please let me know if you have questions in the comments below.
 
