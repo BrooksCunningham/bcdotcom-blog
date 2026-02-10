@@ -2,7 +2,7 @@ title: "Bad news does not get better with age"
 description: "Just another IT blog."
 author: "Brooks Cunningham"
 url: "https://www.brookscunningham.com"
-baseurl: ""
+baseurl: "/bcdotcom-blog"
 
 
 theme: minima
