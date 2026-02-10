@@ -1,0 +1,19 @@
+title: "Bad news does not get better with age"
+description: "Just another IT blog."
+author: "Brooks Cunningham"
+url: "https://brookscunningham.github.io"
+baseurl: "/bcdotcom"
+
+theme: minima
+
+permalink: /:year/:month/:title:output_ext
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
