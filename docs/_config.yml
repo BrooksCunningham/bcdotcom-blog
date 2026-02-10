@@ -3,6 +3,8 @@ description: "Just another IT blog."
 author: "Brooks Cunningham"
 url: "https://brookscunningham.github.io"
 baseurl: "/bcdotcom-blog"
+# baseurl: "/bcdotcom-blog"
+
 
 theme: minima
 
